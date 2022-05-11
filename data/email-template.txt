@@ -1,0 +1,26 @@
+Dear $name,
+
+My name is Darius. I'm a Ph.D. student in Software Engineering at the University of Groningen (the Netherlands).
+For my research, I'm investigating architectural issues in open source projects and currently interviewing open source developers about the effort spent maintaining such projects.
+Looking at your GitHub account, it seems that you are quite an active developer for the $project project, therefore you would be a perfect candidate for our interviews!
+Would you be interested to participate? The interview will be held over Google Meet (or your preferred software) and will last around 30 minutes.
+I want to stress that the interview is informal and strictly confidential.
+
+During the interview, I will ask you a few questions to know your professional opinion on Technical Debt, Maintainability and the results I obtained analysing $project with our own tool.
+
+These interviews are instrumental for my research, and I would greatly appreciate you finding some time for me.
+I'm looking forward to receiving your reply and scheduling the interview.
+Please let me know in what time zone do you live and feel free to suggest a time slot of when you are available.
+
+Thank you!
+
+Best Regards,
+Darius Sas
+
+--
+Darius Sas - PhD Student
+Software Architecture and Engineering Group (SEARCH)
+Bernoulli Institute, University of Groningen, the Netherlands
+http://www.cs.rug.nl/search/People/DariusDanielSas
+
+PS: If you do not wish to receive further emails from us click the following link: https://fenn92.pythonanywhere.com/unsubscribe?email=$email
